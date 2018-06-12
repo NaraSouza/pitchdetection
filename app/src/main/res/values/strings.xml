@@ -1,0 +1,10 @@
+<resources>
+    <!-- internal -->
+    <string name="app_name">Projeto Multimidia</string>
+
+    <!-- interface -->
+    <string name="intro">Olá! Bem-vindo ao nosso aplicativo 😊</string>
+    <string name="step_one">Diga algo em voz alta</string>
+    <string name="emoji_silent">😶</string>
+    <string name="emoji_speak">😮</string>
+</resources>
